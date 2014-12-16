@@ -1,0 +1,19 @@
+#li-register a:hover {
+    cursor: auto;
+}
+
+.form-register-control {
+    width: 400px;
+}
+
+#form-register input[type="password"] {
+    width: 175px;
+}
+
+#_username {
+    width: 200px;
+}
+
+#_firstname, #_lastname {
+    width: 370px;
+}
